@@ -64,7 +64,7 @@ copyright = ""
 title = "GeoSync Help Center"
 subtitle = "Find answers from our support team"
 bg_image = "images/banner.svg"
-placeholder = "Have a question? Just ask here or enter terms"
+placeholder = "Have a question? Just ask here"
 
 # call to action
 [Languages.en.params.cta]
