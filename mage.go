@@ -9,6 +9,7 @@ import (
 	"io"
 	"os"
 	"strings"
+	"time"
 )
 
 var (
@@ -22,10 +23,10 @@ var (
 		"61ab6a7f4e6af500298d91d8": "z-tools-app",
 		"5f08958fad72c1002d455db7": "qgis",
 		"5fdd5d610bc1940017c6fbbe": "publisher-app",
-		"60b14560c59996001555722b": "publihser-app",
+		"60b14560c59996001555722b": "publisher-app",
 		"60b145a66e703d0015bfd23d": "publisher-app",
 		"60b14641b5e32100153df572": "publisher-app",
-		"60b14683043a040015f1a475": "publihser-app",
+		"60b14683043a040015f1a475": "publisher-app",
 		"60b14b0473c48300162e9677": "publisher-app",
 		"618bd853edb2c50017410203": "publisher-app",
 		"5fdd5dc0482fcd0017aac66d": "utility-solution",
@@ -67,9 +68,12 @@ func Import() {
 			continue
 		}
 
+		now := time.Now()
+
 		md := []byte(
 			`---
 title: ` + record[3] + `
+lastmod: ` + now.Format("2006-01-02 15:04:05 -07:00") + `
 ---
 			
 ` + record[4])

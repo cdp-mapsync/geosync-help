@@ -4,10 +4,13 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
 - type: text
   name: subtitle
-  label: subtitle
+  label: Subtitle
 - type: text
   name: description
-  label: meta description
+  label: Metadata Description
+- type: datetime
+  name: lastmod
+  label: Last Modified

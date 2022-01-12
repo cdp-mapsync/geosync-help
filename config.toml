@@ -70,7 +70,7 @@ placeholder = "Have a question? Just ask here or enter terms"
 [Languages.en.params.cta]
 enable = true
 title = "Didn't find an answer to your question?"
-content = "Let us know, we are always trying to add more information."
+content = "Let us know. We are always trying to add more information."
 # call to action button
 [Languages.en.params.cta.button]
 enable = true
