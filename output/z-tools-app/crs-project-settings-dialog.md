@@ -1,5 +1,0 @@
----
-title: CRS Project Settings Dialog
----
-			
-Z-Tools utilizes PROJ4 projection settings to set map projections.   From the Main Tool Menu you can launch the projection settings dialog (CRS) and build a list of default projections you need to use in your projects. The settings are stored as a simple text file. Each projection setting is stored in this format:  NAME + (AUTHORITY CODE) + | + PROJ4 String  A good source for creating projection information if you can’t find it through the search option is to use QGIS to find the projection and corresponding settings and manually edit the projection list.      · Get Button: Opens the current settings file · Save Button: Save changes to the file. You can manually add and change settings from the text box and save. If you search and find a projection you must save to make it available for use · Search… Button: Opens a search dialog for finding pre-defined projection settings. Most common settings are searchable.   
