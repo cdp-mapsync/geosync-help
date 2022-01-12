@@ -8,7 +8,7 @@
       <img class="img-fluid" src="{{if $logoWhite }}{{ $logoWhite | absURL }} {{ else }} {{ $logo | absURL }}{{ end }}"
         alt="{{ site.Title }}">
       {{ else }}
-      <img class="img-fluid" src="{{ $logo | absURL }}" alt="{{ site.Title }}">
+      <img class="img-fluid" style="max-width:54px;" src="{{ $logo | absURL }}" alt="{{ site.Title }}">
       {{ end }}
       {{ else }}
       {{ site.Title }}
