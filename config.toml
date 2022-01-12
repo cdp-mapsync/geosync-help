@@ -1,8 +1,8 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://examplesite.com/"
+baseURL = "https://help.geosync.cloud"
 # site title
-title = "Dot"
+title = "GeoSync Help"
 # disable language
 disableLanguages = []
 # google analytics
@@ -21,9 +21,9 @@ logo_white = ""
 # when logo is empty, it will shown your site title
 
 # OpenGraph / Twitter Card metadata
-description = "This is meta description"
-author = "Themefisher"
-image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+description = "Flexible spatial framework for data management"
+author = "GeoSync"
+image = "/icons/icon.png" # this image will be used as fallback if a page has no image of its own
 
 # customize color
 primary_color = "#00AB5F"
@@ -94,14 +94,9 @@ name = "Faq"
 url = "faq"
 weight = 2
 
-[[menu.main]]
-name = "contact"
-url = "contact"
-weight = 3
-
 # Dropdown menu
 [[menu.main]]
-weight = 4
+weight = 3
 name = "docs"
 hasChildren = true
 
