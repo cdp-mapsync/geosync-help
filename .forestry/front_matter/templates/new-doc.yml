@@ -6,13 +6,8 @@ fields:
   name: title
   label: title
 - type: text
-  name: category
-  label: category
-- type: text
   name: subtitle
   label: subtitle
 - type: text
   name: description
   label: meta description
-pages:
-- content/utility-solution/test.md

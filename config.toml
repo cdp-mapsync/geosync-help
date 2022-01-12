@@ -77,43 +77,90 @@ enable = true
 label = "contact us"
 link = "contact"
 
+############################# Menus ##############################
 
-################## english navigation #################
-[[Languages.en.menu.main]]
+[[menu.main]]
 name = "Home"
 url = "/"
 weight = 1
 
-[[Languages.en.menu.main]]
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
 name = "Faq"
 url = "faq"
 weight = 2
 
-[[Languages.en.menu.main]]
+[[menu.main]]
 name = "contact"
 url = "contact"
 weight = 3
 
 # Dropdown menu
-[[Languages.en.menu.main]]
+[[menu.main]]
 weight = 4
 name = "docs"
 hasChildren = true
 
-  [[Languages.en.menu.main]]
+  [[menu.main]]
   parent = "docs"
-  name = "Installation"
-  url = "installation"
+  name = "AM Tools App"
+  url = "am-tools-app"
   weight = 1
 
-  [[Languages.en.menu.main]]
+  [[menu.main]]
   parent = "docs"
-  name = "Billing and Pricing"
-  url = "billing-pricing"
+  name = "Campus Solution"
+  url = "campus-solution"
   weight = 2
 
-  [[Languages.en.menu.main]]
+  [[menu.main]]
   parent = "docs"
-  name = "Features"
-  url = "features"
+  name = "E911 Solution"
+  url = "e911-solution"
   weight = 3
+
+  [[menu.main]]
+  parent = "docs"
+  name = "E911 Solution"
+  url = "e911-solution"
+  weight = 4
+
+  [[menu.main]]
+  parent = "docs"
+  name = "GeoSync App"
+  url = "geosync-app"
+  weight = 5
+
+  [[menu.main]]
+  parent = "docs"
+  name = "GO Plus App"
+  url = "go-plus-app"
+  weight = 6
+
+  [[menu.main]]
+  parent = "docs"
+  name = "Publisher App"
+  url = "publisher-app"
+  weight = 7
+
+  [[menu.main]]
+  parent = "docs"
+  name = "QGIS"
+  url = "qgis"
+  weight = 8
+
+  [[menu.main]]
+  parent = "docs"
+  name = "Utility Solution"
+  url = "utility-solution"
+  weight = 9
+
+  [[menu.main]]
+  parent = "docs"
+  name = "Z-Tools App"
+  url = "z-tools-app"
+  weight = 10
