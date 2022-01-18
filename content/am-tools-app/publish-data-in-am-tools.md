@@ -18,5 +18,3 @@ Publish GIS data from QGIS for use in the field on mobile devices.  This process
 6\. A green message saying Publish Complete appears when the publish is finished.  
 
 7\. QC the publish by selecting the Published Layers tab.  Refresh the list.  Confirm the layers recently published have valid coordinates and a match on the feature count(s).  If so, then the layer is published and will be viewable on mobile devices (assuming the layer has been configured for such).
-
-{{<vimeo 540274387>||
