@@ -8,3 +8,15 @@ Series of videos showing the basics of using the publisher to create a capture w
 Publisher Setup
 
 {{<vimeo 579457454>}}  
+
+Making a Map
+
+{{<vimeo 579457494>}}
+
+Adding a Capture Form
+
+{{<vimeo 579457672>}}
+
+Adding a Table
+
+{{<vimeo 579457731>}}
