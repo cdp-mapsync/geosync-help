@@ -1,6 +1,5 @@
 +++
 description = ""
-draft = true
 lastmod = ""
 subtitle = ""
 title = "Installation of GeoSync app on Apple iOS device"
