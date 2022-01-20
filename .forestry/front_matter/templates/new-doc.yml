@@ -14,5 +14,3 @@ fields:
 - type: datetime
   name: lastmod
   label: Last Modified
-pages:
-- content/example-doc.md
