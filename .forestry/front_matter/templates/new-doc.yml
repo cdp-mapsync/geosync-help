@@ -14,5 +14,3 @@ fields:
 - type: datetime
   name: lastmod
   label: Last Modified
-pages:
-- content/geosync-app/Installation and Setup/installation-of-geosync-app-on-apple-ios-device.md
