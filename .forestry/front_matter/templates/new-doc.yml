@@ -15,4 +15,5 @@ fields:
   name: lastmod
   label: Last Modified
 pages:
+- content/geosync-app/geosync-installation-for-windows.md
 - content/geosync-app/installation-of-geosync-app-on-apple-ios-device.md
