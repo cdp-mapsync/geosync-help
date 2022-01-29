@@ -1,5 +1,5 @@
 ---
-title: GeoSync App - iOS R1 Setup
+title: iOS Trimble R1 Setup
 icon: ti-map-alt
 description: ''
 type: docs
