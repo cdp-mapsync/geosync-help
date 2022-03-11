@@ -1,6 +1,5 @@
 +++
 description = ""
-draft = true
 lastmod = ""
 subtitle = ""
 title = "Working Offline using GNSS device"
