@@ -1,6 +1,7 @@
 ---
 title: Offline publishing to GeoSyncGO Plus
-lastmod: 2022-01-12 05:39:36 -05:00
+lastmod: 2022-01-12T05:39:36.000-05:00
+subtitle: AM Tools
+
 ---
-			
 The GeoSyncGO Plus app, by default, accesses map projects and data from a GeoSyncGO Cloud account, therefore requiring an internet connection. However, the app does have the capability of functioning without an internet connection (i.e. "Offline"). This capability requires a couple of additional published steps.  After updates to layers have been published to the GeoSync(tm) Cloud account: From "GsGO AM Tools"    Select the "Published Layers" tab Click the "Refresh" button Select the layer(s) that have been updated and are needed offline by clicking the box next to the layer(s). A check mark will be added to the box.  >>>Note: multiple layers can be selected if needed.<<< Click the "Publish GPKG" button After the publishing has been completed Open GeoSyncGO Plus and sign in with administrative user privileges   Do NOT open a map project, instead click "Account" Select the "Snapshots" menu    Click the "Rename" command Select "Home" from the user menu (upper right) to return to the map project selection page, or close the app.  Your GeoSyncGO Plus map layers can now be "Sync'd" on a mobile device for Offline Use.
