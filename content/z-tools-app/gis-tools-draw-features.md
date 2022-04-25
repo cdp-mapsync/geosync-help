@@ -2,7 +2,9 @@
 description = ""
 lastmod = ""
 subtitle = ""
-title = "GIS Tools - Draw Features"
+title = "GIS Tools - Draw and Edit Features"
 
 +++
-This video demonstrates basic steps for drawing new features (Lines, Points) in the GIS Tools (Management) application.
+This video demonstrates basic steps for drawing new features (Lines, Points) and editing features in the GIS Tools (Management) application.
+
+[Link to video folder...](https://vimeo.com/user/115886712/folder/10037241)
