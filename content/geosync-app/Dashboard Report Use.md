@@ -2,7 +2,7 @@
 description = ""
 lastmod = ""
 subtitle = ""
-title = ""
+title = "Dashboard Report Use"
 
 +++
 This video demonstrates how to setup and use the dashboard reports in GeoSync Cloud
