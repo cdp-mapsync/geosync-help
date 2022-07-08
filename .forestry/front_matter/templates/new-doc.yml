@@ -15,6 +15,7 @@ fields:
   name: lastmod
   label: Last Modified
 pages:
+- content/geosync-app/Dashboard Report Use.md
 - content/geosync-app/Past Due Features.md
 - content/geosync-app/draw-and-delete-lines.md
 - content/geosync-app/feature-follow-up-flag.md
