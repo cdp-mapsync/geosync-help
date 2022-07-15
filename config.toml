@@ -23,38 +23,44 @@ link = "https://start.geosync.cloud/contact"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Help Center"
-url = "/"
-weight = 2
-[[menu.main]]
-name = "Z-Tools App"
-parent = "Docs"
-url = "z-tools-app"
-weight = 10
-[[menu.main]]
-name = "Utility Solution"
-parent = "Docs"
-url = "utility-solution"
-weight = 9
-[[menu.main]]
-name = "QGIS"
-parent = "Docs"
-url = "qgis"
-weight = 8
-[[menu.main]]
 name = "Publisher App"
 parent = "Docs"
 url = "publisher-app"
-weight = 7
+weight = 8
 [[menu.main]]
 name = "GO Plus App"
 parent = "Docs"
 url = "go-plus-app"
-weight = 6
+weight = 7
 [[menu.main]]
 name = "GeoSync App"
 parent = "Docs"
 url = "geosync-app"
+weight = 6
+[[menu.main]]
+name = "Campus Solution"
+parent = "Docs"
+url = "campus-solution"
+weight = 3
+[[menu.main]]
+name = "Z-Tools App"
+parent = "Docs"
+url = "z-tools-app"
+weight = 1
+[[menu.main]]
+name = "Utility Solution"
+parent = "Docs"
+url = "utility-solution"
+weight = 10
+[[menu.main]]
+name = "QGIS"
+parent = "Docs"
+url = "qgis"
+weight = 9
+[[menu.main]]
+name = "E911 Solution"
+parent = "Docs"
+url = "e911-solution"
 weight = 5
 [[menu.main]]
 name = "E911 Solution"
@@ -62,24 +68,18 @@ parent = "Docs"
 url = "e911-solution"
 weight = 4
 [[menu.main]]
-name = "E911 Solution"
-parent = "Docs"
-url = "e911-solution"
-weight = 3
-[[menu.main]]
-name = "Campus Solution"
-parent = "Docs"
-url = "campus-solution"
-weight = 2
-[[menu.main]]
 name = "AM Tools App"
 parent = "Docs"
 url = "am-tools-app"
-weight = 1
+weight = 2
 [[menu.main]]
 hasChildren = true
 name = "Docs"
 weight = 4
+[[menu.main]]
+name = "Help Center"
+url = "/"
+weight = 2
 [[menu.main]]
 name = "Home"
 url = "https://start.geosync.cloud"
