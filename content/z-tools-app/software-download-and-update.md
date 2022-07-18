@@ -5,7 +5,7 @@ subtitle = ""
 title = "Software Packages and Installation"
 
 +++
-## GeoSync Software Packages
+#### GeoSync Software
 
 * [**Latest Z-Tools Software Update**](https://ztools.blob.core.windows.net/$root/SetupZToolsStandAlone.msi)
   * Update your current Z-Tools installation
