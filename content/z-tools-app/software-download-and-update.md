@@ -2,7 +2,7 @@
 description = ""
 lastmod = ""
 subtitle = ""
-title = "Software Download and Update"
+title = "Software Packages and Installation"
 
 +++
 * [**Latest Z-Tools Software Update**](https://ztools.blob.core.windows.net/$root/SetupZToolsStandAlone.msi)
