@@ -5,6 +5,8 @@ subtitle = ""
 title = "Software Packages and Installation"
 
 +++
+## GeoSync Software Packages
+
 * [**Latest Z-Tools Software Update**](https://ztools.blob.core.windows.net/$root/SetupZToolsStandAlone.msi)
   * Update your current Z-Tools installation
   * Download and run the SetupZToolsStandAlone.msi package
@@ -15,6 +17,14 @@ title = "Software Packages and Installation"
   * Follow Defaults
   * Start Software - Enter Activation Information
 
-Short video taking you through the first time installation process.
+
+* [**GeoSync Windows App Install**](https://geosync.blob.core.windows.net/geosync/Releases/Setup.exe)
+  * Download the package and run setup.exe
+  * Go to Apple or Google Store to install for your device
+* [**GeoSync Publisher App Install**](https://geosync.blob.core.windows.net/publisher/Releases/Setup.exe)
+  * Windows Only
+  * Download the package and run setup.exe
+
+Short video taking you through the first time  **GeoSync Z-Tools** installation process.
 
 {{< vimeo 730097051 >}}
