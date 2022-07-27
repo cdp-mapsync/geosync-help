@@ -3,6 +3,9 @@ description = ""
 lastmod = ""
 subtitle = ""
 title = "Software Packages and Installation"
+[menu.main]
+name = "Install"
+weight = 5
 
 +++
 #### GeoSync Software
