@@ -5,6 +5,8 @@ subtitle = ""
 title = "Export and Publish Layers from ArcMap"
 
 +++
+[PDF Document with Instructions](https://ztools.blob.core.windows.net/$root/ExportfromArc-PublishAMTools.pdf)
+
 Using the MapSync Publish Add In
 
 * Export layers to XML
@@ -17,5 +19,3 @@ Using AMTools
 Use the GeoSync Cloud Publisher
 
 * Configure layers for map display
-
-[PDF Document with Instructions](https://ztools.blob.core.windows.net/$root/ExportfromArc-PublishAMTools.pdf)
