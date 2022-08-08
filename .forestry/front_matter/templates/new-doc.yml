@@ -29,6 +29,7 @@ pages:
 - content/geosync-app/refresh-map-and-or-clear-cache-data.md
 - content/geosync-app/share-tool.md
 - content/geosync-app/working-offline-using-gnss-device.md
+- content/publisher-app/publish-a-geojson-layer.md
 - content/z-tools-app/gis-tools-draw-features.md
 - content/z-tools-app/guide-for-usgs-lidar-to-dxf.md
 - content/z-tools-app/guide-for-z-tools-3d-view-creation.md
