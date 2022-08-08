@@ -35,4 +35,5 @@ pages:
 - content/z-tools-app/guide-for-usgs-lidar-to-dxf.md
 - content/z-tools-app/guide-for-z-tools-3d-view-creation.md
 - content/z-tools-app/ky-first-dxf-contour-and-point-cloud.md
+- content/z-tools-app/setup-cloud-sql-connection.md
 - content/z-tools-app/software-download-and-update.md
