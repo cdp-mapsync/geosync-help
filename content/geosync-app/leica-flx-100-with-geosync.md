@@ -1,6 +1,5 @@
 +++
 description = ""
-draft = true
 lastmod = ""
 subtitle = ""
 title = "Leica FLX 100 with GeoSync"
