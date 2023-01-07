@@ -5,7 +5,7 @@ subtitle = ""
 title = "GNSS to CAD (PNEZD) Export"
 
 +++
-**Export captured points using the GeoSync app to a text file (PNEZD) ready for import into a CAD workflow.**  
+**Export captured points using the GeoSync app to a text file (PNEZD) ready for import into a CAD workflow.**
 
 The export tool allows you to:
 
@@ -31,3 +31,5 @@ The export tool allows you to:
 4. Switch to the File Browser Tab to find the PNEZD export.  Exports are located under the \\GIS\\_pnezd folder.  Double click on the file to preview or browse to open Windows Explorer
 
 Watch the quick video:
+
+{{<vimeo 787192117>}}
