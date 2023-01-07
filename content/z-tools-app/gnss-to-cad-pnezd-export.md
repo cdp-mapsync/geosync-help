@@ -1,19 +1,20 @@
 +++
 description = ""
-draft = true
 lastmod = ""
 subtitle = ""
 title = "GNSS to CAD (PNEZD) Export"
 
 +++
-Export captured points using the GeoSync app to a text file (PNEZD) ready for import into a CAD workflow.  The export tool allows you to 
+**Export captured points using the GeoSync app to a text file (PNEZD) ready for import into a CAD workflow.**  
+
+The export tool allows you to:
 
 * select point number, Z, rod height, and description fields for export
-* multiple fields can be combined for the description
-* rod heights are used to adjust the Z value to the ground
-* if Z values represent height above ellipsoid (HAE) you can adjust the Z to elevation by using the included geoid model.  Geoid adjustments are intended for GIS mapping applications - not for surveying or geodetic applications
+* combine multiple fields for the description
+* use rod heights to adjust the Z value to the ground
+* adjust the Z to elevation by using the included geoid model if Z values represent height above ellipsoid (HAE).  Geoid adjustments are intended for GIS mapping applications - not for surveying or geodetic applications
 * export can be either a tab or comma delimited file
-* GNSS positions are projected to Northing and Easting coordinates based on the projection you set
+* project to Northing and Easting coordinates based on the projection you set
 
 **Steps:**
 
@@ -25,6 +26,8 @@ Export captured points using the GeoSync app to a text file (PNEZD) ready for im
 3. Switch to the Master Layers Tab
    * Click refresh layers on the left to show the list of available GIS layers
    * Select the layer you want to export and the data will be populated in the data grid on the right
-   * Use the data grid and map to review the data and select the rows you want to export 
+   * Use the data grid and map to review the data and select the rows you want to export
    * Using the Tools - Save menu item, you can open the PNEZD tool for generating your export
-4. Switch to File Browser Tab to find the PNEZD export.  Exports are located under the \\GIS\\_pnezd folder.  Double click on the file to preview or browse to open Windows Explorer
+4. Switch to the File Browser Tab to find the PNEZD export.  Exports are located under the \\GIS\\_pnezd folder.  Double click on the file to preview or browse to open Windows Explorer
+
+Watch the quick video:
