@@ -27,3 +27,7 @@ weight = 5
   * Download the package and run setup.exe
 
 Your activation codes and/or login credentials will be sent separately.
+
+Here is a short video for First Time Installation of Z-Tools. 
+
+{{<vimeo 730097051>}}
