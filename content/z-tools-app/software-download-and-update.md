@@ -19,8 +19,6 @@ weight = 5
   * Run As Administrator  GsGOZT64Installer.exe
   * Follow Defaults
   * Start Software - Enter Activation Information
-
-
 * [**GeoSync Windows App Install**](https://geosync.blob.core.windows.net/geosync/Releases/Setup.exe)
   * Download the package and run setup.exe
   * Go to Apple or Google Store to install for your device
@@ -28,6 +26,4 @@ weight = 5
   * Windows Only
   * Download the package and run setup.exe
 
-Short video taking you through the first time  **GeoSync Z-Tools** installation process.
-
-{{< vimeo 730097051 >}}
+Your activation codes and/or login credentials will be sent separately.
