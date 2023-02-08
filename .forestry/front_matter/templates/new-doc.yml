@@ -32,6 +32,7 @@ pages:
 - content/geosync-app/share-tool.md
 - content/geosync-app/update-gnss-location-of-existing-point-feature.md
 - content/geosync-app/working-offline-using-gnss-device.md
+- content/publisher-app/change-user-password.md
 - content/publisher-app/publish-a-geojson-layer.md
 - content/z-tools-app/gis-conversion.md
 - content/z-tools-app/gis-tools-draw-features.md
