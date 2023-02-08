@@ -1,6 +1,5 @@
 +++
 description = ""
-draft = true
 lastmod = ""
 subtitle = ""
 title = "Change User Password"
