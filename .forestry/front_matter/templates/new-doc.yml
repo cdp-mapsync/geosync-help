@@ -36,6 +36,7 @@ pages:
 - content/publisher-app/publish-a-geojson-layer.md
 - content/z-tools-app/gis-conversion.md
 - content/z-tools-app/gis-tools-draw-features.md
+- content/z-tools-app/gis-tools-sql-layer-download-and-export.md
 - content/z-tools-app/gnss-to-cad-pnezd-export.md
 - content/z-tools-app/guide-for-usgs-lidar-to-dxf.md
 - content/z-tools-app/guide-for-z-tools-3d-view-creation.md
