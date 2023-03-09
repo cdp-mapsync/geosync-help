@@ -34,6 +34,7 @@ pages:
 - content/geosync-app/working-offline-using-gnss-device.md
 - content/publisher-app/change-user-password.md
 - content/publisher-app/publish-a-geojson-layer.md
+- content/utility-solution/lead-service-line-services.md
 - content/z-tools-app/gis-conversion.md
 - content/z-tools-app/gis-tools-draw-features.md
 - content/z-tools-app/gis-tools-sql-layer-download-and-export.md
