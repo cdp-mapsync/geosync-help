@@ -5,7 +5,7 @@ subtitle = ""
 title = "GIS Tools - Flip Direction using Reverse Flag"
 
 +++
-SQL Layer line directions can be flipped by setting the _reverse flag = yes
+SQL Layer line directions can be flipped by setting the _reverse flag = yes. See video linked below for example...
 
 Requirements:
 
