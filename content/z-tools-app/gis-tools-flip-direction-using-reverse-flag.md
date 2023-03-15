@@ -1,6 +1,5 @@
 +++
 description = ""
-draft = true
 lastmod = ""
 subtitle = ""
 title = "GIS Tools - Flip Direction using Reverse Flag"
@@ -11,7 +10,7 @@ SQL Layer line directions can be flipped by setting the _reverse flag = yes
 Requirements:
 
 * SQL Line Layer and FORM must be setup to support _reverse flag
-* GIS Manager in Z-Tools must be configured to connect to the hosted SQL database.  
+* GIS Manager in Z-Tools must be configured to connect to the hosted SQL database.
 * Clear Cache needs to be setup in GIS Manager in order to easily refresh the map display after line direction is flipped
 
 Steps:
@@ -21,3 +20,5 @@ Steps:
 3. Check the layer with _reverse flags
 4. Run the Flip Direction tool
 5. Run the Clear Cache tool
+
+{{< vimeo 808319670 >}}
