@@ -31,6 +31,7 @@ pages:
 - content/geosync-app/refresh-map-and-or-clear-cache-data.md
 - content/geosync-app/share-tool.md
 - content/geosync-app/update-gnss-location-of-existing-point-feature.md
+- content/geosync-app/what-do-zoom-level-numbers-mean.md
 - content/geosync-app/working-offline-using-gnss-device.md
 - content/publisher-app/change-user-password.md
 - content/publisher-app/publish-a-geojson-layer.md
