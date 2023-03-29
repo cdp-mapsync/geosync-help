@@ -1,12 +1,11 @@
 +++
 description = ""
-draft = true
 lastmod = ""
 subtitle = ""
 title = "Indoor Scan to GeoSync Floor Plan"
 
 +++
-Process takes a merged indoor point cloud and generates 2d floor plans for use in a GeoSync Cloud Campus project.  Optionally, point clouds can be published and hosted as part of the Campus project but are not included in this topic. The process examples assume Kentucky locations.  
+Process takes a merged indoor point cloud and generates 2d floor plans for use in a GeoSync Cloud Campus project.  Optionally, point clouds can be published and hosted as part of the Campus project but are not included in this topic. The process examples assume Kentucky locations.
 
 Videos of most of the steps can be found here:
 
