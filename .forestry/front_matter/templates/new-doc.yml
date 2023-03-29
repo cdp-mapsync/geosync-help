@@ -16,6 +16,7 @@ fields:
   label: Last Modified
 pages:
 - content/am-tools-app/export-and-publish-layers-from-arcmap.md
+- content/campus-solution/indoor-scan-to-geosync-floor-plan.md
 - content/geosync-app/Dashboard Report Use.md
 - content/geosync-app/Past Due Features.md
 - content/geosync-app/append-new-history.md
