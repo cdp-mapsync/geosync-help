@@ -22,12 +22,13 @@ weight = 5
 * [**GeoSync Windows App Install**](https://geosync.blob.core.windows.net/geosync/Releases/Setup.exe)
   * Download the package and run setup.exe
   * Go to Apple or Google Store to install for your device
+  * [GeoSync Core Install ](https://geosync.blob.core.windows.net/core/Releases/Setup.exe)- for large file downloads from the GeoSync App (Windows Desktop)
 * [**GeoSync Publisher App Install**](https://geosync.blob.core.windows.net/publisher/Releases/Setup.exe)
   * Windows Only
   * Download the package and run setup.exe
 
 Your activation codes and/or login credentials will be sent separately.
 
-Here is a short video for First Time Installation of Z-Tools. 
+Here is a short video for First Time Installation of Z-Tools.
 
 {{<vimeo 730097051>}}
