@@ -1,3 +1,7 @@
+---
+_template: new_doc
+---
+
 +++
 description = ""
 lastmod = ""
