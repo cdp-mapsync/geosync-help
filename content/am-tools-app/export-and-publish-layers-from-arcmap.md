@@ -1,14 +1,6 @@
 ---
-_template: new_doc
+title: Publish Data in AM Tools
 ---
-
-+++
-description = ""
-lastmod = ""
-subtitle = ""
-title = "Export and Publish Layers from ArcMap"
-
-+++
 [PDF Document with Instructions](https://ztools.blob.core.windows.net/$root/ExportfromArc-PublishAMTools.pdf)
 
 Using the MapSync Publish Add In
