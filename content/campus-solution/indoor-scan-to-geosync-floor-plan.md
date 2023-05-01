@@ -1,14 +1,7 @@
 ---
 _template: new_doc
+title: "Indoor Scan (LAZ) to GeoSync Floor Plan"
 ---
-
-+++
-description = ""
-lastmod = ""
-subtitle = ""
-title = "Indoor Scan (LAZ) to GeoSync Floor Plan"
-
-+++
 Process takes a merged indoor point cloud and generates 2d floor plans for use in a GeoSync Cloud Campus project.  Optionally, point clouds can be published and hosted as part of the Campus project but are not included in this topic. The process examples assume Kentucky locations.
 
 [Videos](https://vimeo.com/user/115886712/folder/15584093) of most of the steps can be found here.

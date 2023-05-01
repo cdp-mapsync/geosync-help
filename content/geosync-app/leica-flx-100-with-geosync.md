@@ -1,14 +1,8 @@
 ---
 _template: new_doc
+title: Leica FLX 100 with GeoSync
 ---
 
-+++
-description = ""
-lastmod = ""
-subtitle = ""
-title = "Leica FLX 100 with GeoSync"
-
-+++
 Standard setup steps for using a Leica FLX 100 with GeoSync on an IOS or Android device.
 
 * Install Zeno Connect App

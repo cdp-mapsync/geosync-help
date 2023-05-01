@@ -1,17 +1,8 @@
 ---
 _template: new_doc
+title: "Software Packages and Installation"
 ---
 
-+++
-description = ""
-lastmod = ""
-subtitle = ""
-title = "Software Packages and Installation"
-[menu.main]
-name = "Install"
-weight = 5
-
-+++
 #### GeoSync Software
 
 * [**Latest Z-Tools Software Update**](https://ztools.blob.core.windows.net/$root/SetupZToolsStandAlone.msi)

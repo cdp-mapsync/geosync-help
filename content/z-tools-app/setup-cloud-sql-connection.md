@@ -1,14 +1,8 @@
 ---
 _template: new_doc
+title: "Setup Cloud SQL Connection"
 ---
 
-+++
-description = ""
-lastmod = ""
-subtitle = ""
-title = "Setup Cloud SQL Connection"
-
-+++
 ### Connect to your SQL workflow database
 
 You will need to know the name of the database in order to download a pre-configured connection using the retrieve backup tool.

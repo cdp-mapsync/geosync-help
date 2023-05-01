@@ -1,14 +1,8 @@
 ---
 _template: new_doc
+title: "Refresh map and / or clear cache data"
 ---
 
-+++
-description = ""
-lastmod = ""
-subtitle = ""
-title = "Refresh map and / or clear cache data"
-
-+++
 If features are not appearing as expected or the map needs to be refreshed, do the following:
 
 On a computer, use a right click of the mouse on the GeoSync interface and select Refresh from the options.

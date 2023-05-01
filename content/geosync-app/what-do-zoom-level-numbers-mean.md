@@ -1,14 +1,8 @@
 ---
 _template: new_doc
+title: "What do Zoom Level Numbers mean?"
 ---
 
-+++
-description = ""
-lastmod = ""
-subtitle = ""
-title = "What do Zoom Level Numbers mean?"
-
-+++
 You will see a zoom level number in the upper left corner of the map. This number changes as you zoom in and out.  The numbers are standardized to match zoom levels established with Google Maps.  Each number represents a map scale ratio, i.e. 1:5000
 
 Here is a list of zoom level and corresponding ratios:

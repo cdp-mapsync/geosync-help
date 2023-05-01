@@ -1,14 +1,8 @@
 ---
 _template: new_doc
+title: "GIS Conversion"
 ---
 
-+++
-description = ""
-lastmod = ""
-subtitle = ""
-title = "GIS Conversion"
-
-+++
 ### Convert and Re-Project GIS Layers
 
 **Keys**

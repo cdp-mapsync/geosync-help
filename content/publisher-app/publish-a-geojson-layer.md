@@ -1,14 +1,8 @@
 ---
 _template: new_doc
+title: "Publish a GeoJSON Layer"
 ---
 
-+++
-description = ""
-lastmod = ""
-subtitle = ""
-title = "Publish a GeoJSON Layer"
-
-+++
 ### Publish Scenario
 
 You have a local geojson layer (might be converted from some existing GIS data) and you want to create a cloud layer that can be added to a GeoSync Map.
