@@ -8,4 +8,3 @@ The exported shape files should be synced to your desktop (i.e. Google Drive) or
 
 This video details the process:
 
-{{\<vimeo 866825566>}}
