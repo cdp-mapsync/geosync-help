@@ -1,7 +1,8 @@
 ---
+title: Guide for Z-Tools 3D View Creation
 _template: new_doc
-title: "Guide for Z-Tools 3D View Creation"
 ---
+
 
 Step by step guide for using the Standard Publisher tool in Z-Tools to visualize point clouds on your local computer.
 

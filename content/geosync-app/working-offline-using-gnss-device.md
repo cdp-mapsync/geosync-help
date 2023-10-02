@@ -1,10 +1,11 @@
 ---
+description: ''
+lastmod: ''
+subtitle: ''
+title: Working Offline using GNSS device
 _template: new_doc
-description: ""
-lastmod: ""
-subtitle: ""
-title: "Working Offline using GNSS device"
 ---
+
 Configure the GeoSync App to use a Trimble R1 or R2 GNSS device on a tablet or phone.  You need to the GeoSync Cloud App installed and the Trimble GNSS Status App installed.  The connection utilizes Bluetooth so the GNSS device must be paired to your phone or tablet.  See the help documentation and video for setting up a GNSS device.  
 
 Use SBAS as a GNSS device source since the device will be used in areas without connection in the GNSS Status app.

@@ -1,7 +1,8 @@
 ---
+title: Refresh map and / or clear cache data
 _template: new_doc
-title: "Refresh map and / or clear cache data"
 ---
+
 
 If features are not appearing as expected or the map needs to be refreshed, do the following:
 

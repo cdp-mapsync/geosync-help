@@ -1,6 +1,8 @@
 ---
 title: Export and Publish Layers from ArcMap
+_template: new_doc
 ---
+
 [PDF Document with Instructions](https://ztools.blob.core.windows.net/$root/ExportfromArc-PublishAMTools.pdf)
 
 Using the MapSync Publish Add In

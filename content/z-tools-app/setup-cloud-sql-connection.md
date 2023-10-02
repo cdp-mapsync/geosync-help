@@ -1,7 +1,8 @@
 ---
+title: Setup Cloud SQL Connection
 _template: new_doc
-title: "Setup Cloud SQL Connection"
 ---
+
 
 ### Connect to your SQL workflow database
 

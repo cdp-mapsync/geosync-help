@@ -1,7 +1,8 @@
 ---
+title: Publish a GeoJSON Layer
 _template: new_doc
-title: "Publish a GeoJSON Layer"
 ---
+
 
 ### Publish Scenario
 

@@ -1,7 +1,8 @@
 ---
+title: Guide for USGS LIDAR to DXF
 _template: new_doc
-title: "Guide for USGS LIDAR to DXF"
 ---
+
 
 Help document outlining the steps involved for finding lidar tiles, downloading, and processing to DXF contours.
 

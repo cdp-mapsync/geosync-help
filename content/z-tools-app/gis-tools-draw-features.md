@@ -1,7 +1,8 @@
 ---
+title: GIS Tools - Draw and Edit Features
 _template: new_doc
-title: "GIS Tools - Draw and Edit Features"
 ---
+
 
 These videos demonstrate basic steps for drawing new features (Lines, Points) and editing features in the GIS Tools (Management) application.
 

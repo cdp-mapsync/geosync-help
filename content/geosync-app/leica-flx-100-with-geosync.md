@@ -1,7 +1,8 @@
 ---
-_template: new_doc
 title: Leica FLX 100 with GeoSync
+_template: new_doc
 ---
+
 
 Standard setup steps for using a Leica FLX 100 with GeoSync on an IOS or Android device.
 

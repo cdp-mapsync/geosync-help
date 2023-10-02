@@ -1,7 +1,8 @@
 ---
+title: Software Packages and Installation
 _template: new_doc
-title: "Software Packages and Installation"
 ---
+
 
 #### GeoSync Software
 

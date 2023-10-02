@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/cdp-mapsync/geosync-help#readme",
   "dependencies": {
-    "@tinacms/cli": "^1.5.6",
-    "tinacms": "^1.4.6"
+    "@tinacms/cli": "^1.5.29",
+    "tinacms": "^1.5.20"
   }
 }

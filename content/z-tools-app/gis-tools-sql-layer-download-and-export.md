@@ -1,7 +1,8 @@
 ---
+title: GIS Tools - SQL Layer Download and Export
 _template: new_doc
-title: "GIS Tools - SQL Layer Download and Export"
 ---
+
 
 Using GIS Tools... SQL connection information must already be setup.  This is usually provided as a Z-Tools project.
 

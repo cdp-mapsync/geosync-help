@@ -1,7 +1,8 @@
 ---
+title: GNSS to CAD (PNEZD) Export
 _template: new_doc
-title: "GNSS to CAD (PNEZD) Export"
 ---
+
 
 **Export captured points using the GeoSync app to a text file (PNEZD) ready for import into a CAD workflow.**
 
