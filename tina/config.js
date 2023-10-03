@@ -38,6 +38,24 @@ export default defineConfig({
             label: "Body of Document",
             description: "This is the markdown body",
             isBody: true,
+            templates: [
+              {
+                name: 'vimeo',
+                label: 'vimeo',
+                match: {
+                  start: '{{<',
+                  end: '>}}',
+                },
+                fields: [
+                  {
+                    name: '_value',
+                    label: 'value',
+                    type: 'string',
+                    required: true,
+                  },
+                ],
+              },
+            ],
           },
           ...new_docFields(),
         ],
