@@ -2,7 +2,7 @@
 title: Connecting to Trimble R1/R2 on iOS
 ---
 
-In order to use a Trimble R1/R2 with GeoSync Cloud, the Trimble Mobile Manager app will need to be installed. Below is a link to the app on the App Store.
+Starting in November 2023, connecting a Trimble R1/R2 with GeoSync Cloud will require the Trimble Mobile Manager app. Below is a link to the app on the App Store.
 
 [https://apps.apple.com/us/app/trimble-mobile-manager/id1477956695](https://apps.apple.com/us/app/trimble-mobile-manager/id1477956695)
 
