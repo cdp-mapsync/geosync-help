@@ -17,6 +17,7 @@ Connecting Receiver to Trimble Mobile Manager
 5. If you are prompted to enter a PIN when connecting to a Trimble R series receiver, the default PIN is 0000. Note however that this may have been changed for your receiver in the web interface used to configure the receiver settings.
 6. If you have connected to the receiver using the iOS Bluetooth settings screen but it is not listed in Trimble Mobile Manager, return to the iOS Bluetooth settings screen and turn off Bluetooth and then turn on Bluetooth. Return to Trimble Mobile Manager and tap the List Connected Devices button again.
 7. Once connected, the Trimble Mobile Manager Home screen shows the name and serial number of the connected receiver.
+8. [Setup up KYCORS correction service if needed](https://ztools.blob.core.windows.net/$root/TrimbleMobileManager_Setup_GeoSyncCLOUD_iOS.pdf)
 
 Using Receiver Position in GeoSync Cloud
 
