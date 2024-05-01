@@ -1,8 +1,10 @@
 ---
 title: Link and view media
-lastmod: 2022-01-12T05:39:36.000-05:00
-
+lastmod: 2022-01-12T10:39:36.000Z
 ---
+
 This video will demonstrate how to link and view media in GeoSync
 
-{{<vimeo 546758850>}}
+{{\<vimeo 546758850>}}
+
+{{< vimeo "941604721" >}}
