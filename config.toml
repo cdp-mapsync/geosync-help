@@ -63,6 +63,11 @@ parent = "Docs"
 url = "e911-solution"
 weight = 5
 [[menu.main]]
+name = "GeoSync Cloud Advisory"
+parent = "Docs"
+url = "geosync-cloud-advisory"
+weight = 5
+[[menu.main]]
 name = "E911 Solution"
 parent = "Docs"
 url = "e911-solution"
