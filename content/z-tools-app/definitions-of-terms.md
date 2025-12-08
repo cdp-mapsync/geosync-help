@@ -2,7 +2,8 @@
 title: Definitions of Terms
 lastmod: 2022-01-12 05:39:36 -05:00
 ---
-			
+
+			Definition
 · LIDAR: stands for Light Detection and Ranging 
 · GIS: Geographic Information System 
 · ESRI, ArcGIS, ArcMap, QGIS: GIS programs 
