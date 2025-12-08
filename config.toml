@@ -78,6 +78,11 @@ parent = "Docs"
 url = "am-tools-app"
 weight = 2
 [[menu.main]]
+name = "GeoSync 360"
+parent = "Docs"
+url = "geosync360"
+weight = 2
+[[menu.main]]
 hasChildren = true
 name = "Docs"
 weight = 4
