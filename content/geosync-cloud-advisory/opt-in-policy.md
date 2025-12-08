@@ -3,10 +3,6 @@ title: Opt-in Policy
 lastmod: 2025-12-08T10:39:36.000Z
 ---
 
-## Notification Opt-in Policy
-
----
-
 ### I. Purpose
 
 This policy establishes the **mandatory protocol** for utility partners utilizing our application to secure explicit customer consent for receiving electronic notifications. This is essential to ensure **regulatory compliance**, safeguard **customer privacy**, and maintain effective communication integrity.
