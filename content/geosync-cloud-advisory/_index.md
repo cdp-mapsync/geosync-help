@@ -1,6 +1,6 @@
 ---
-title: "GeoSync Cloud Advisory"
-icon: "ti-alert"
+title: "GeoSync 360"
+icon: "ti-world"
 description: ""
 type : "docs"
 ---
