@@ -3,8 +3,6 @@ title: Privacy Policy
 lastmod: 2025-12-08T10:39:36.000Z
 ---
 
-### Privacy Policy
-
 At MapSync, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by MapSync and how we use it.
 
 #### Information Collection And Use
