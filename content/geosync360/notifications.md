@@ -3,8 +3,6 @@ title: Notifications
 lastmod: 2025-12-08T10:39:36.000Z
 ---
 
-## 🔔 Notifications & Location-Based Alerts
-
 By activating important notifications and setting your user location, you gain access to information that is both **timely and relevant**.
 
 ---
