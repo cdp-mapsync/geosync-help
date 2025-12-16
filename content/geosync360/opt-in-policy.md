@@ -3,26 +3,14 @@ title: Opt-in Policy
 lastmod: 2025-12-08T10:39:36.000Z
 ---
 
-### I. Purpose
+CDP-MapSync acts as the secure communication facilitator between utility companies and their customers. Our text notification service is governed by the customer lists provided directly by the utility.
 
-This policy establishes the **mandatory protocol** for utility partners utilizing our application to secure explicit customer consent for receiving electronic notifications. This is essential to ensure **regulatory compliance**, safeguard **customer privacy**, and maintain effective communication integrity.
+Recipients on these lists have previously **opted-in** to receive time-sensitive alerts (e.g., service outages, demand response events, planned meter work) in accordance with the **Telephone Consumer Protection Act of 1991 (TCPA)**.
 
-### II. Scope
+Crucially, notifications considered **service-critical**—which are non-marketing communications directly related to the provision of the utility service—**do not require separate, additional consent** under the TCPA.
 
-This policy applies to all utility companies and their agents who wish to use our application's services to dispatch automated or system-generated customer notifications, alerts, or reminders (e.g., outage updates, billing notices).
+All additions to the recipient list are strictly managed by the utility companies, which are responsible for collecting the necessary customer contact information.
 
-### III. Policy Requirements
+### Opt-Out & List Management
 
-Utility partners are required to execute a formal, auditable opt-in workflow as follows:
-
-1.  **Request for Explicit Consent:** The utility must proactively initiate contact with customers to request **explicit, affirmative opt-in consent** for the delivery of notifications. The communication must clearly state the purpose and general types of messages the customer will receive.
-2.  **Flexible Communication Channels:** The utility may leverage any combination of existing customer contact channels to solicit this consent. Approved channels include, but are not limited to:
-    * **SMS/Text Message**
-    * **Dedicated Email Communication**
-    * **Direct Telephone Outreach**
-    * **Formal In-Person/Paper Sign-up Verification**
-3.  **Customer Record Flagging:** Upon the successful receipt of **verifiable customer consent**, the utility partner must immediately and accurately update the corresponding customer record in their database (which integrates with our application). This action must activate the mandatory **Notification Opt-in Flag**.
-
-### IV. Compliance Mandate
-
-Our application will only process and deliver automated notifications to customer records where the **Notification Opt-in Flag** has been set to **TRUE** by the utility partner. Utilities bear full responsibility for the accurate and lawful acquisition of customer consent and the maintenance of this critical flag. Failure to adhere to this protocol may result in the suspension of notification services.
+If a utility company determines that a customer should no longer receive text notifications, their number can be removed from the active customer list upon the utility's request.
