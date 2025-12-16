@@ -21,4 +21,4 @@ Enabling location access unlocks **contextual relevance**, sending targeted aler
 
 ---
 
-**Commitment:** Your privacy is key. Visit our [privacy policy]([https://duckduckgo.com](https://help.geosync.cloud/geosync360/privacy-policy/)) page for more details.
+**Commitment:** Your privacy is key. Visit our [privacy policy](https://help.geosync.cloud/geosync360/privacy-policy/) page for more details.
