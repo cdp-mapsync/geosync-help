@@ -16,3 +16,4 @@ You can import a boundary file to be used for finding and clipping elevation dat
     6.	Close Manager Layers
 7.	From the Map – use the Layer button to pick the new boundary
 
+![](https://ztools.blob.core.windows.net/ddcpub/images/import_boundary_dxf.png)
